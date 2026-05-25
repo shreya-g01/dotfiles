@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = garikapatyshreya@gmail.com
+	name = Shreya Garikapaty
